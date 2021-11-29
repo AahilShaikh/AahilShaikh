@@ -52,7 +52,7 @@ _____________________________________________________________________________
 
 # :zap: GitHub Stats
 
-<img align="left" alt="Aahil's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=AahilShaikh&show_icons=true&hide_border=true" />
+[![Aahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=AahilShaikh)](https://github.com/AahilShaikh/github-readme-stats)
 
 
 [website]: https://codeSTACKr.com
