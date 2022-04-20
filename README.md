@@ -27,7 +27,7 @@
 ### :zap: GitHub Stats
 
 ![Aahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=AahilShaikh&count_private=true&show_icons=true&theme=gotham)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AahilShaikh&layout=compact&show_icons=true&theme=gotham&count_private=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AahilShaikh&layout=compact&show_icons=true&theme=gotham&count_private=true)
 
 
 
