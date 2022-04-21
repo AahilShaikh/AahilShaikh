@@ -28,6 +28,7 @@
 
 ![Aahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=AahilShaikh&count_private=true&show_icons=true&theme=gotham)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AahilShaikh&layout=compact&show_icons=true&theme=gotham&count_private=true)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/AahilShaikh/repos?time_range=one_year&theme=dark)](https://githubtrends.io)
 
 
 
