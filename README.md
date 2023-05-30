@@ -1,8 +1,6 @@
 # Hello!
 ---
 - 👀 I’m interested in Machine Learning, Web and Mobile development
-- I'm a part of FRC Cougar Robotics Teaam 1403
-- 🌱 I’m currently learning Pytorch and Tensorflow
 
 ### Connect with me:
 
