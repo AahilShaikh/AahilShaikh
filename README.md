@@ -1,6 +1,6 @@
 # Hello!
 ---
-- 👀 I’m interested in Machine Learning, Web and Mobile development
+- 👀 I’m interested in Machine Learning, mobile and linux development.
 
 ### Connect with me:
 
@@ -24,8 +24,8 @@
 
 ### :zap: GitHub Stats
 ![Aahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=AahilShaikh&count_private=true&show_icons=true&theme=gotham)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AahilShaikh&layout=compact&show_icons=true&theme=gotham&count_private=true)
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/AahilShaikh/repos?time_range=one_year&include_private=True&theme=dark)](https://githubtrends.io)
+![Top Langs](https://api.githubtrends.io/user/svg/AahilShaikh/langs?time_range=one_year&use_percent=True&include_private=True&loc_metric=changed&compact=True&theme=dark)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/AahilShaikh/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark)](https://githubtrends.io)
 
 
 
