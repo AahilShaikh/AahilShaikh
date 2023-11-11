@@ -1,12 +1,6 @@
 # Hello!
 ---
-- 👀 I’m interested in Machine Learning, mobile and linux development.
-
-### Connect with me:
-
-[<img align="left" alt="Aahil Shaikh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Aahil Shaikh | Google Developer Profile" width="22px" src="https://toppng.com/uploads/preview/oogle-chrome-developer-tools-google-developers-icon-11563029118otjotftm9o.png" />][Google Developer Profile]
-<br />
+- I’m interested in robotics and competitive programming
 
 ### Languages and Tools:
 
