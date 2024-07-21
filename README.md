@@ -1,6 +1,18 @@
-# Hello!
----
-- I’m interested in robotics and competitive programming
+<p align="center"> 
+        <a href="https://www.aahil.rocks"><img src="https://www.aahil.rocks/static/imgs/apple-touch-icon.png?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
+<h1 style="text-align: center;">Hi there, I'm Aahil! 👋</h1>
+
+<p align="center">
+    <br>
+    <a href="https://www.linkedin.com/in/aahil-shaikh/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+</p>
+
+## I'm a 2nd year college student studying CS + Computer Engineering
+- I'm currently a research SWE intern @ Palo Alto Networks
+- I love robotics, cyber security, AI, and biotech.
+
 
 ### Languages and Tools:
 
@@ -18,13 +30,3 @@
 
 ### :zap: GitHub Stats
 ![Aahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=AahilShaikh&count_private=true&show_icons=true&theme=gotham)
-![Top Langs](https://api.githubtrends.io/user/svg/AahilShaikh/langs?time_range=one_year&use_percent=True&include_private=True&loc_metric=changed&compact=True&theme=dark)
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/AahilShaikh/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark)](https://githubtrends.io)
-
-
-
-[linkedin]: https://linkedin.com/in/aahil-shaikh
-[Google Developer Profile]: https://developers.google.com/profile/u/aahil
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
