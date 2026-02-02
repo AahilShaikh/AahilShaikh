@@ -9,7 +9,7 @@
     <a href="https://www.linkedin.com/in/aahil-shaikh/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 </p>
 
-## I'm a 2nd year college student studying CS + Computer Engineering
+## I'm a 3rd year college student studying Computer Engineering
 - I'm currently a research SWE intern @ Palo Alto Networks
 - I love robotics, cyber security, AI, and biotech.
 
